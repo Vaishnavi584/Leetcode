@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vaishnavi584/Leetcode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/Vaishnavi584/Leetcode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
@@ -16,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Vaishnavi584/Leetcode/tree/master/0066-plus-one) |
 | [0948-sort-an-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0948-sort-an-array) |
 ## Divide and Conquer
 |  |
