@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vaishnavi584/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/Vaishnavi584/Leetcode/tree/master/0066-plus-one) |
 | [0948-sort-an-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0948-sort-an-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Vaishnavi584/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -27,6 +28,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vaishnavi584/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0948-sort-an-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
@@ -104,4 +106,8 @@
 |  |
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vaishnavi584/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vaishnavi584/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
