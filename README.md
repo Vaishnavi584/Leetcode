@@ -111,6 +111,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Vaishnavi584/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Vaishnavi584/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vaishnavi584/Leetcode/tree/master/0013-roman-to-integer) |
+| [0038-count-and-say](https://github.com/Vaishnavi584/Leetcode/tree/master/0038-count-and-say) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vaishnavi584/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Dynamic Programming
