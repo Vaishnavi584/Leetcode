@@ -13,6 +13,7 @@
 | [0013-roman-to-integer](https://github.com/Vaishnavi584/Leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Vaishnavi584/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Vaishnavi584/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Vaishnavi584/Leetcode/tree/master/0069-sqrtx) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vaishnavi584/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vaishnavi584/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vaishnavi584/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Vaishnavi584/Leetcode/tree/master/0069-sqrtx) |
 ## Simulation
 |  |
 | ------- |
