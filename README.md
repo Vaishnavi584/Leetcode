@@ -15,6 +15,7 @@
 | [0043-multiply-strings](https://github.com/Vaishnavi584/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Vaishnavi584/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Vaishnavi584/Leetcode/tree/master/0069-sqrtx) |
+| [0233-number-of-digit-one](https://github.com/Vaishnavi584/Leetcode/tree/master/0233-number-of-digit-one) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vaishnavi584/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vaishnavi584/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vaishnavi584/Leetcode/tree/master/0002-add-two-numbers) |
+| [0233-number-of-digit-one](https://github.com/Vaishnavi584/Leetcode/tree/master/0233-number-of-digit-one) |
 ## Array
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Vaishnavi584/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Vaishnavi584/Leetcode/tree/master/0120-triangle) |
+| [0233-number-of-digit-one](https://github.com/Vaishnavi584/Leetcode/tree/master/0233-number-of-digit-one) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vaishnavi584/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vaishnavi584/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
