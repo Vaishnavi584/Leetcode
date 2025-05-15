@@ -39,6 +39,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vaishnavi584/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Vaishnavi584/Leetcode/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/Vaishnavi584/Leetcode/tree/master/0190-reverse-bits) |
 | [0948-sort-an-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
@@ -101,6 +102,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Vaishnavi584/Leetcode/tree/master/0190-reverse-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vaishnavi584/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
