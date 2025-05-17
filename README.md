@@ -139,6 +139,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/Vaishnavi584/Leetcode/tree/master/0649-dota2-senate) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Vaishnavi584/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vaishnavi584/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## String
@@ -150,6 +151,7 @@
 | [0038-count-and-say](https://github.com/Vaishnavi584/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Vaishnavi584/Leetcode/tree/master/0043-multiply-strings) |
 | [0394-decode-string](https://github.com/Vaishnavi584/Leetcode/tree/master/0394-decode-string) |
+| [0649-dota2-senate](https://github.com/Vaishnavi584/Leetcode/tree/master/0649-dota2-senate) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vaishnavi584/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Vaishnavi584/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2470-removing-stars-from-a-string](https://github.com/Vaishnavi584/Leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -269,4 +271,8 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Vaishnavi584/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vaishnavi584/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vaishnavi584/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/Vaishnavi584/Leetcode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
