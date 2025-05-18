@@ -239,6 +239,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vaishnavi584/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/Vaishnavi584/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Vaishnavi584/Leetcode/tree/master/0043-multiply-strings) |
+| [0072-edit-distance](https://github.com/Vaishnavi584/Leetcode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/Vaishnavi584/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vaishnavi584/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Vaishnavi584/Leetcode/tree/master/0392-is-subsequence) |
@@ -260,6 +261,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Vaishnavi584/Leetcode/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/Vaishnavi584/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Vaishnavi584/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Vaishnavi584/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Vaishnavi584/Leetcode/tree/master/0198-house-robber) |
