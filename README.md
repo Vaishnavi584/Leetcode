@@ -35,6 +35,7 @@
 | [0075-sort-colors](https://github.com/Vaishnavi584/Leetcode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/Vaishnavi584/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Vaishnavi584/Leetcode/tree/master/0120-triangle) |
+| [0238-product-of-array-except-self](https://github.com/Vaishnavi584/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/Vaishnavi584/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Vaishnavi584/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Vaishnavi584/Leetcode/tree/master/0735-asteroid-collision) |
@@ -283,6 +284,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Vaishnavi584/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vaishnavi584/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [3643-zero-array-transformation-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
