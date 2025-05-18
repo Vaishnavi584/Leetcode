@@ -43,6 +43,7 @@
 | [0085-maximal-rectangle](https://github.com/Vaishnavi584/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Vaishnavi584/Leetcode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Vaishnavi584/Leetcode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/Vaishnavi584/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Vaishnavi584/Leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Vaishnavi584/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -307,6 +308,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vaishnavi584/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Vaishnavi584/Leetcode/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/Vaishnavi584/Leetcode/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/Vaishnavi584/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/Vaishnavi584/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vaishnavi584/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
