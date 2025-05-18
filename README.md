@@ -43,6 +43,7 @@
 | [0238-product-of-array-except-self](https://github.com/Vaishnavi584/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Vaishnavi584/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vaishnavi584/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0399-evaluate-division](https://github.com/Vaishnavi584/Leetcode/tree/master/0399-evaluate-division) |
 | [0605-can-place-flowers](https://github.com/Vaishnavi584/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Vaishnavi584/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Vaishnavi584/Leetcode/tree/master/0735-asteroid-collision) |
@@ -137,6 +138,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vaishnavi584/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Vaishnavi584/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vaishnavi584/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/Vaishnavi584/Leetcode/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Vaishnavi584/Leetcode/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/Vaishnavi584/Leetcode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Vaishnavi584/Leetcode/tree/master/0871-keys-and-rooms) |
@@ -152,6 +154,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vaishnavi584/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Vaishnavi584/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0399-evaluate-division](https://github.com/Vaishnavi584/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Vaishnavi584/Leetcode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Vaishnavi584/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Vaishnavi584/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -209,6 +212,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Vaishnavi584/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Vaishnavi584/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Vaishnavi584/Leetcode/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/Vaishnavi584/Leetcode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Vaishnavi584/Leetcode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/Vaishnavi584/Leetcode/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Vaishnavi584/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -377,11 +381,17 @@
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Vaishnavi584/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Vaishnavi584/Leetcode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Vaishnavi584/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Vaishnavi584/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Union Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Vaishnavi584/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Vaishnavi584/Leetcode/tree/master/0547-number-of-provinces) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Vaishnavi584/Leetcode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
