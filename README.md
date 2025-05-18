@@ -310,6 +310,7 @@
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/Vaishnavi584/Leetcode/tree/master/0649-dota2-senate) |
+| [0969-number-of-recent-calls](https://github.com/Vaishnavi584/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -318,4 +319,12 @@
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Vaishnavi584/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Vaishnavi584/Leetcode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Vaishnavi584/Leetcode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
