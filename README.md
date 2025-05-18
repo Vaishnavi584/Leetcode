@@ -51,6 +51,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/Vaishnavi584/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/Vaishnavi584/Leetcode/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/Vaishnavi584/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vaishnavi584/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Vaishnavi584/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Vaishnavi584/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vaishnavi584/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -94,6 +95,7 @@
 | [0148-sort-list](https://github.com/Vaishnavi584/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Vaishnavi584/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vaishnavi584/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0948-sort-an-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0948-sort-an-array) |
 | [1397-search-suggestions-system](https://github.com/Vaishnavi584/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Vaishnavi584/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -235,6 +237,7 @@
 | [0011-container-with-most-water](https://github.com/Vaishnavi584/Leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vaishnavi584/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Vaishnavi584/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vaishnavi584/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Vaishnavi584/Leetcode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Vaishnavi584/Leetcode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vaishnavi584/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
