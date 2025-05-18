@@ -62,6 +62,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vaishnavi584/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Vaishnavi584/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/Vaishnavi584/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2636-maximum-subsequence-score](https://github.com/Vaishnavi584/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vaishnavi584/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Vaishnavi584/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -83,12 +84,14 @@
 | [0948-sort-an-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0948-sort-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Vaishnavi584/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Vaishnavi584/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2636-maximum-subsequence-score](https://github.com/Vaishnavi584/Leetcode/tree/master/2636-maximum-subsequence-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0948-sort-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Vaishnavi584/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2636-maximum-subsequence-score](https://github.com/Vaishnavi584/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Vaishnavi584/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Merge Sort
 |  |
@@ -209,6 +212,7 @@
 | [0605-can-place-flowers](https://github.com/Vaishnavi584/Leetcode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Vaishnavi584/Leetcode/tree/master/0649-dota2-senate) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Vaishnavi584/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [2636-maximum-subsequence-score](https://github.com/Vaishnavi584/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vaishnavi584/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## String
 |  |
