@@ -36,6 +36,7 @@
 | [0085-maximal-rectangle](https://github.com/Vaishnavi584/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Vaishnavi584/Leetcode/tree/master/0120-triangle) |
 | [0238-product-of-array-except-self](https://github.com/Vaishnavi584/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/Vaishnavi584/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Vaishnavi584/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Vaishnavi584/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Vaishnavi584/Leetcode/tree/master/0735-asteroid-collision) |
@@ -148,6 +149,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Vaishnavi584/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Vaishnavi584/Leetcode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Vaishnavi584/Leetcode/tree/master/0649-dota2-senate) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Vaishnavi584/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
