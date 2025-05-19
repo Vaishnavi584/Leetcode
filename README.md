@@ -85,6 +85,7 @@
 | [2428-equal-row-and-column-pairs](https://github.com/Vaishnavi584/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Vaishnavi584/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/Vaishnavi584/Leetcode/tree/master/2636-maximum-subsequence-score) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Vaishnavi584/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vaishnavi584/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Vaishnavi584/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -287,6 +288,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/Vaishnavi584/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Vaishnavi584/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/Vaishnavi584/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Vaishnavi584/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vaishnavi584/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vaishnavi584/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -444,6 +446,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Vaishnavi584/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Vaishnavi584/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/Vaishnavi584/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Vaishnavi584/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3643-zero-array-transformation-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
 |  |
