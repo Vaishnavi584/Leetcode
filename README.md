@@ -305,6 +305,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/Vaishnavi584/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Vaishnavi584/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vaishnavi584/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Vaishnavi584/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vaishnavi584/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Vaishnavi584/Leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -360,6 +361,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Vaishnavi584/Leetcode/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/Vaishnavi584/Leetcode/tree/master/0735-asteroid-collision) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Vaishnavi584/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2428-equal-row-and-column-pairs](https://github.com/Vaishnavi584/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Vaishnavi584/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Vaishnavi584/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -371,6 +373,7 @@
 | [0735-asteroid-collision](https://github.com/Vaishnavi584/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Vaishnavi584/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Vaishnavi584/Leetcode/tree/master/0937-online-stock-span) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Vaishnavi584/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Vaishnavi584/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Vaishnavi584/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Vaishnavi584/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
