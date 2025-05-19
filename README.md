@@ -96,6 +96,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vaishnavi584/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Vaishnavi584/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3321-type-of-triangle](https://github.com/Vaishnavi584/Leetcode/tree/master/3321-type-of-triangle) |
+| [3429-special-array-i](https://github.com/Vaishnavi584/Leetcode/tree/master/3429-special-array-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
 |  |
