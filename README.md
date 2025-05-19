@@ -148,6 +148,7 @@
 | [0948-sort-an-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0948-sort-an-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Vaishnavi584/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Vaishnavi584/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Vaishnavi584/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vaishnavi584/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Hash Table
@@ -167,6 +168,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vaishnavi584/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Vaishnavi584/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/Vaishnavi584/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Vaishnavi584/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vaishnavi584/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Tree
@@ -304,6 +306,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vaishnavi584/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vaishnavi584/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Vaishnavi584/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vaishnavi584/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Dynamic Programming
