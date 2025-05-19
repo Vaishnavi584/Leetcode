@@ -83,6 +83,7 @@
 | [1833-find-the-highest-altitude](https://github.com/Vaishnavi584/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vaishnavi584/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vaishnavi584/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Vaishnavi584/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vaishnavi584/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Vaishnavi584/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2358-number-of-ways-to-split-array](https://github.com/Vaishnavi584/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
