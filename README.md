@@ -90,6 +90,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Vaishnavi584/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/Vaishnavi584/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/2465-shifting-letters-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Vaishnavi584/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Vaishnavi584/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Vaishnavi584/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/Vaishnavi584/Leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -121,6 +122,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/Vaishnavi584/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Vaishnavi584/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Vaishnavi584/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Vaishnavi584/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2636-maximum-subsequence-score](https://github.com/Vaishnavi584/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3321-type-of-triangle](https://github.com/Vaishnavi584/Leetcode/tree/master/3321-type-of-triangle) |
 ## Heap (Priority Queue)
@@ -130,6 +132,7 @@
 | [0948-sort-an-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0948-sort-an-array) |
 | [1397-search-suggestions-system](https://github.com/Vaishnavi584/Leetcode/tree/master/1397-search-suggestions-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Vaishnavi584/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Vaishnavi584/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Vaishnavi584/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/Vaishnavi584/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Vaishnavi584/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -172,6 +175,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vaishnavi584/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Vaishnavi584/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/Vaishnavi584/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Vaishnavi584/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Vaishnavi584/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vaishnavi584/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
