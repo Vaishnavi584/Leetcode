@@ -50,6 +50,7 @@
 | [0075-sort-colors](https://github.com/Vaishnavi584/Leetcode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/Vaishnavi584/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Vaishnavi584/Leetcode/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Vaishnavi584/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Vaishnavi584/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Vaishnavi584/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Vaishnavi584/Leetcode/tree/master/0198-house-robber) |
@@ -175,6 +176,7 @@
 | [0013-roman-to-integer](https://github.com/Vaishnavi584/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vaishnavi584/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Vaishnavi584/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Vaishnavi584/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vaishnavi584/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0952-word-subsets](https://github.com/Vaishnavi584/Leetcode/tree/master/0952-word-subsets) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vaishnavi584/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -551,6 +553,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Vaishnavi584/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/Vaishnavi584/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Vaishnavi584/Leetcode/tree/master/0547-number-of-provinces) |
 ## Shortest Path
