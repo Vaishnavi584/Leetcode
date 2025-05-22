@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vaishnavi584/Leetcode/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/Vaishnavi584/Leetcode/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Vaishnavi584/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Vaishnavi584/Leetcode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Vaishnavi584/Leetcode/tree/master/0233-number-of-digit-one) |
@@ -295,6 +296,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vaishnavi584/Leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Vaishnavi584/Leetcode/tree/master/0044-wildcard-matching) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vaishnavi584/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Vaishnavi584/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vaishnavi584/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -314,6 +316,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vaishnavi584/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/Vaishnavi584/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Vaishnavi584/Leetcode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Vaishnavi584/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Vaishnavi584/Leetcode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/Vaishnavi584/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vaishnavi584/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -348,6 +351,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Vaishnavi584/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Vaishnavi584/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Vaishnavi584/Leetcode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Vaishnavi584/Leetcode/tree/master/0072-edit-distance) |
