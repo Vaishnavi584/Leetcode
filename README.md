@@ -341,6 +341,7 @@
 | [0399-evaluate-division](https://github.com/Vaishnavi584/Leetcode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Vaishnavi584/Leetcode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/Vaishnavi584/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0649-dota2-senate](https://github.com/Vaishnavi584/Leetcode/tree/master/0649-dota2-senate) |
 | [0952-word-subsets](https://github.com/Vaishnavi584/Leetcode/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Vaishnavi584/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
