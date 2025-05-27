@@ -24,6 +24,7 @@
 | [0224-basic-calculator](https://github.com/Vaishnavi584/Leetcode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Vaishnavi584/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0507-perfect-number](https://github.com/Vaishnavi584/Leetcode/tree/master/0507-perfect-number) |
+| [0728-self-dividing-numbers](https://github.com/Vaishnavi584/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Vaishnavi584/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Vaishnavi584/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vaishnavi584/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
