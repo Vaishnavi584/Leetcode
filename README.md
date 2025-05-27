@@ -81,6 +81,7 @@
 | [0605-can-place-flowers](https://github.com/Vaishnavi584/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Vaishnavi584/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Vaishnavi584/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0697-degree-of-an-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vaishnavi584/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Vaishnavi584/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Vaishnavi584/Leetcode/tree/master/0735-asteroid-collision) |
@@ -210,6 +211,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Vaishnavi584/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0525-contiguous-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0525-contiguous-array) |
+| [0697-degree-of-an-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0952-word-subsets](https://github.com/Vaishnavi584/Leetcode/tree/master/0952-word-subsets) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vaishnavi584/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Vaishnavi584/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
