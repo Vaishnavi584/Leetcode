@@ -289,6 +289,7 @@
 | [0039-combination-sum](https://github.com/Vaishnavi584/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Vaishnavi584/Leetcode/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/Vaishnavi584/Leetcode/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/Vaishnavi584/Leetcode/tree/master/0089-gray-code) |
 | [0140-word-break-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/Vaishnavi584/Leetcode/tree/master/0216-combination-sum-iii) |
