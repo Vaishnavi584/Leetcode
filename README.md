@@ -55,6 +55,7 @@
 | [0075-sort-colors](https://github.com/Vaishnavi584/Leetcode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/Vaishnavi584/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Vaishnavi584/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Vaishnavi584/Leetcode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Vaishnavi584/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Vaishnavi584/Leetcode/tree/master/0136-single-number) |
@@ -392,6 +393,7 @@
 | [0072-edit-distance](https://github.com/Vaishnavi584/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Vaishnavi584/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Vaishnavi584/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Vaishnavi584/Leetcode/tree/master/0120-triangle) |
 | [0140-word-break-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Vaishnavi584/Leetcode/tree/master/0198-house-robber) |
