@@ -314,6 +314,7 @@
 | [0137-single-number-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Vaishnavi584/Leetcode/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/Vaishnavi584/Leetcode/tree/master/0338-counting-bits) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Vaishnavi584/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Vaishnavi584/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vaishnavi584/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vaishnavi584/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
