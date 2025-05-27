@@ -371,6 +371,7 @@
 | [0541-reverse-string-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/Vaishnavi584/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0649-dota2-senate](https://github.com/Vaishnavi584/Leetcode/tree/master/0649-dota2-senate) |
+| [0696-count-binary-substrings](https://github.com/Vaishnavi584/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0952-word-subsets](https://github.com/Vaishnavi584/Leetcode/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Vaishnavi584/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/Vaishnavi584/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -494,6 +495,7 @@
 | [0443-string-compression](https://github.com/Vaishnavi584/Leetcode/tree/master/0443-string-compression) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0541-reverse-string-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0696-count-binary-substrings](https://github.com/Vaishnavi584/Leetcode/tree/master/0696-count-binary-substrings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Vaishnavi584/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Vaishnavi584/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Vaishnavi584/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
