@@ -20,6 +20,7 @@
 | [0062-unique-paths](https://github.com/Vaishnavi584/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Vaishnavi584/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Vaishnavi584/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Vaishnavi584/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Vaishnavi584/Leetcode/tree/master/0089-gray-code) |
 | [0224-basic-calculator](https://github.com/Vaishnavi584/Leetcode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Vaishnavi584/Leetcode/tree/master/0233-number-of-digit-one) |
@@ -428,6 +429,7 @@
 | [0044-wildcard-matching](https://github.com/Vaishnavi584/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Vaishnavi584/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Vaishnavi584/Leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Vaishnavi584/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Vaishnavi584/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Vaishnavi584/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Vaishnavi584/Leetcode/tree/master/0118-pascals-triangle) |
@@ -685,6 +687,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Vaishnavi584/Leetcode/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/0140-word-break-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/Vaishnavi584/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Vaishnavi584/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
