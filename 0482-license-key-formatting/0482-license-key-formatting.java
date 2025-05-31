@@ -1,0 +1,33 @@
+class Solution {
+    public String licenseKeyFormatting(String s, int k) {
+        int n = s.length();
+
+        int cnt = 0; //counts the number of non dash character of s
+        String temp = ""; //a temporary string with non dash characters
+
+        for(int i=0;i<n;i++){
+            if(s.charAt(i)!='-'){
+                cnt++;
+                temp+=s.charAt(i);
+            }
+        }
+
+        int first_dash = cnt%k; //where the first dash has to be kept
+
+        String str = ""; //answer string
+        
+        int c = 0; //count to put dash when this value becomes equal to k
+
+        for(int i=0;i<cnt;i++){
+            if(i!=0 && (i==first_dash || c==k)){
+                str+='-';
+                str+=temp.charAt(i);
+                c=0;
+            }
+            else str = str + temp.charAt(i);
+            c++;
+        }
+        
+        return str.toUpperCase();
+    }
+}
