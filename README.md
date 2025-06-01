@@ -25,6 +25,7 @@
 | [0224-basic-calculator](https://github.com/Vaishnavi584/Leetcode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Vaishnavi584/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/Vaishnavi584/Leetcode/tree/master/0279-perfect-squares) |
+| [0319-bulb-switcher](https://github.com/Vaishnavi584/Leetcode/tree/master/0319-bulb-switcher) |
 | [0507-perfect-number](https://github.com/Vaishnavi584/Leetcode/tree/master/0507-perfect-number) |
 | [0553-optimal-division](https://github.com/Vaishnavi584/Leetcode/tree/master/0553-optimal-division) |
 | [0728-self-dividing-numbers](https://github.com/Vaishnavi584/Leetcode/tree/master/0728-self-dividing-numbers) |
@@ -726,6 +727,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/Vaishnavi584/Leetcode/tree/master/0319-bulb-switcher) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Vaishnavi584/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Topological Sort
 |  |
