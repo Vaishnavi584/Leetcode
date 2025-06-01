@@ -27,6 +27,7 @@
 | [0279-perfect-squares](https://github.com/Vaishnavi584/Leetcode/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/Vaishnavi584/Leetcode/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/Vaishnavi584/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0372-super-pow](https://github.com/Vaishnavi584/Leetcode/tree/master/0372-super-pow) |
 | [0507-perfect-number](https://github.com/Vaishnavi584/Leetcode/tree/master/0507-perfect-number) |
 | [0553-optimal-division](https://github.com/Vaishnavi584/Leetcode/tree/master/0553-optimal-division) |
 | [0728-self-dividing-numbers](https://github.com/Vaishnavi584/Leetcode/tree/master/0728-self-dividing-numbers) |
@@ -162,6 +163,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0327-count-of-range-sum](https://github.com/Vaishnavi584/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Vaishnavi584/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/Vaishnavi584/Leetcode/tree/master/0372-super-pow) |
 | [0948-sort-an-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
