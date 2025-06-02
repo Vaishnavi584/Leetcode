@@ -428,6 +428,7 @@
 | [0394-decode-string](https://github.com/Vaishnavi584/Leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Vaishnavi584/Leetcode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Vaishnavi584/Leetcode/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/Vaishnavi584/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/Vaishnavi584/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/Vaishnavi584/Leetcode/tree/master/0482-license-key-formatting) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Vaishnavi584/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -749,6 +750,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Vaishnavi584/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1524-string-matching-in-an-array](https://github.com/Vaishnavi584/Leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Brainteaser
 |  |
