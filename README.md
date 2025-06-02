@@ -366,6 +366,7 @@
 | [0137-single-number-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Vaishnavi584/Leetcode/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/Vaishnavi584/Leetcode/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/Vaishnavi584/Leetcode/tree/master/0397-integer-replacement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Vaishnavi584/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Vaishnavi584/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vaishnavi584/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -390,6 +391,7 @@
 | [0044-wildcard-matching](https://github.com/Vaishnavi584/Leetcode/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/Vaishnavi584/Leetcode/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vaishnavi584/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0397-integer-replacement](https://github.com/Vaishnavi584/Leetcode/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/Vaishnavi584/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vaishnavi584/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/Vaishnavi584/Leetcode/tree/master/0561-array-partition) |
@@ -475,6 +477,7 @@
 | [0368-largest-divisible-subset](https://github.com/Vaishnavi584/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/Vaishnavi584/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Vaishnavi584/Leetcode/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/Vaishnavi584/Leetcode/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/Vaishnavi584/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/Vaishnavi584/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/0518-coin-change-ii) |
@@ -728,6 +731,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vaishnavi584/Leetcode/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/0140-word-break-ii) |
+| [0397-integer-replacement](https://github.com/Vaishnavi584/Leetcode/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/Vaishnavi584/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Vaishnavi584/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Vaishnavi584/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
