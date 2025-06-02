@@ -26,6 +26,7 @@
 | [0233-number-of-digit-one](https://github.com/Vaishnavi584/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/Vaishnavi584/Leetcode/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/Vaishnavi584/Leetcode/tree/master/0319-bulb-switcher) |
+| [0367-valid-perfect-square](https://github.com/Vaishnavi584/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Vaishnavi584/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0372-super-pow](https://github.com/Vaishnavi584/Leetcode/tree/master/0372-super-pow) |
 | [0507-perfect-number](https://github.com/Vaishnavi584/Leetcode/tree/master/0507-perfect-number) |
@@ -507,6 +508,7 @@
 | [0162-find-peak-element](https://github.com/Vaishnavi584/Leetcode/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/Vaishnavi584/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0327-count-of-range-sum](https://github.com/Vaishnavi584/Leetcode/tree/master/0327-count-of-range-sum) |
+| [0367-valid-perfect-square](https://github.com/Vaishnavi584/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Vaishnavi584/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/Vaishnavi584/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vaishnavi584/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
