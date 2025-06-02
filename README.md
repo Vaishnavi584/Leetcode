@@ -369,6 +369,7 @@
 | [0190-reverse-bits](https://github.com/Vaishnavi584/Leetcode/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/Vaishnavi584/Leetcode/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/Vaishnavi584/Leetcode/tree/master/0397-integer-replacement) |
+| [0461-hamming-distance](https://github.com/Vaishnavi584/Leetcode/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Vaishnavi584/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Vaishnavi584/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vaishnavi584/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
