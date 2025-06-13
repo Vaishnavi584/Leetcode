@@ -147,6 +147,7 @@
 | [2553-total-cost-to-hire-k-workers](https://github.com/Vaishnavi584/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/Vaishnavi584/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vaishnavi584/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Vaishnavi584/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vaishnavi584/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Vaishnavi584/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -416,6 +417,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Vaishnavi584/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Vaishnavi584/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2636-maximum-subsequence-score](https://github.com/Vaishnavi584/Leetcode/tree/master/2636-maximum-subsequence-score) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Vaishnavi584/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vaishnavi584/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Vaishnavi584/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Vaishnavi584/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -541,6 +543,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Vaishnavi584/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/Vaishnavi584/Leetcode/tree/master/1397-search-suggestions-system) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Vaishnavi584/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Vaishnavi584/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Vaishnavi584/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3643-zero-array-transformation-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Simulation
