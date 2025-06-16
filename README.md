@@ -140,6 +140,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/Vaishnavi584/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vaishnavi584/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Vaishnavi584/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Vaishnavi584/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2358-number-of-ways-to-split-array](https://github.com/Vaishnavi584/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Vaishnavi584/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/Vaishnavi584/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
