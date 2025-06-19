@@ -143,6 +143,7 @@
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Vaishnavi584/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Vaishnavi584/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2358-number-of-ways-to-split-array](https://github.com/Vaishnavi584/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Vaishnavi584/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Vaishnavi584/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/Vaishnavi584/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/2465-shifting-letters-ii) |
@@ -194,6 +195,7 @@
 | [1397-search-suggestions-system](https://github.com/Vaishnavi584/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Vaishnavi584/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Vaishnavi584/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Vaishnavi584/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Vaishnavi584/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Vaishnavi584/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2636-maximum-subsequence-score](https://github.com/Vaishnavi584/Leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -423,6 +425,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vaishnavi584/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Vaishnavi584/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Vaishnavi584/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Vaishnavi584/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Vaishnavi584/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2636-maximum-subsequence-score](https://github.com/Vaishnavi584/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Vaishnavi584/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
