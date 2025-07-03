@@ -43,6 +43,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Vaishnavi584/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/Vaishnavi584/Leetcode/tree/master/3321-type-of-triangle) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Vaishnavi584/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vaishnavi584/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Vaishnavi584/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -56,6 +57,7 @@
 | [0233-number-of-digit-one](https://github.com/Vaishnavi584/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0394-decode-string](https://github.com/Vaishnavi584/Leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Vaishnavi584/Leetcode/tree/master/1013-fibonacci-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Vaishnavi584/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
 | ------- |
@@ -404,6 +406,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vaishnavi584/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Vaishnavi584/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Vaishnavi584/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Vaishnavi584/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -594,6 +597,7 @@
 | [2428-equal-row-and-column-pairs](https://github.com/Vaishnavi584/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Vaishnavi584/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Vaishnavi584/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Vaishnavi584/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
 | ------- |
