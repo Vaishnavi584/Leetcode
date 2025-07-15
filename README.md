@@ -112,6 +112,7 @@
 | [0525-contiguous-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0525-contiguous-array) |
 | [0553-optimal-division](https://github.com/Vaishnavi584/Leetcode/tree/master/0553-optimal-division) |
 | [0561-array-partition](https://github.com/Vaishnavi584/Leetcode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/Vaishnavi584/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Vaishnavi584/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Vaishnavi584/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Vaishnavi584/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -210,6 +211,7 @@
 | [0455-assign-cookies](https://github.com/Vaishnavi584/Leetcode/tree/master/0455-assign-cookies) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0561-array-partition](https://github.com/Vaishnavi584/Leetcode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/Vaishnavi584/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0948-sort-an-array) |
 | [1397-search-suggestions-system](https://github.com/Vaishnavi584/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Vaishnavi584/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -263,6 +265,7 @@
 | [0299-bulls-and-cows](https://github.com/Vaishnavi584/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Vaishnavi584/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/Vaishnavi584/Leetcode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/Vaishnavi584/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0948-sort-an-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Vaishnavi584/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vaishnavi584/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -290,6 +293,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0525-contiguous-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0525-contiguous-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/Vaishnavi584/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0697-degree-of-an-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0740-delete-and-earn](https://github.com/Vaishnavi584/Leetcode/tree/master/0740-delete-and-earn) |
 | [0952-word-subsets](https://github.com/Vaishnavi584/Leetcode/tree/master/0952-word-subsets) |
@@ -766,6 +770,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Vaishnavi584/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Vaishnavi584/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Vaishnavi584/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vaishnavi584/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
