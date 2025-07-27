@@ -123,6 +123,7 @@
 | [0739-daily-temperatures](https://github.com/Vaishnavi584/Leetcode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/Vaishnavi584/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vaishnavi584/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0861-flipping-an-image](https://github.com/Vaishnavi584/Leetcode/tree/master/0861-flipping-an-image) |
 | [0907-koko-eating-bananas](https://github.com/Vaishnavi584/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0945-snakes-and-ladders](https://github.com/Vaishnavi584/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0948-sort-an-array) |
@@ -428,6 +429,7 @@
 | [0397-integer-replacement](https://github.com/Vaishnavi584/Leetcode/tree/master/0397-integer-replacement) |
 | [0461-hamming-distance](https://github.com/Vaishnavi584/Leetcode/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Vaishnavi584/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0861-flipping-an-image](https://github.com/Vaishnavi584/Leetcode/tree/master/0861-flipping-an-image) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Vaishnavi584/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vaishnavi584/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vaishnavi584/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -632,6 +634,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Vaishnavi584/Leetcode/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/Vaishnavi584/Leetcode/tree/master/0735-asteroid-collision) |
+| [0861-flipping-an-image](https://github.com/Vaishnavi584/Leetcode/tree/master/0861-flipping-an-image) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vaishnavi584/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Vaishnavi584/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2428-equal-row-and-column-pairs](https://github.com/Vaishnavi584/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -658,6 +661,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Vaishnavi584/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Vaishnavi584/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0861-flipping-an-image](https://github.com/Vaishnavi584/Leetcode/tree/master/0861-flipping-an-image) |
 | [0945-snakes-and-ladders](https://github.com/Vaishnavi584/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Vaishnavi584/Leetcode/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/Vaishnavi584/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -685,6 +689,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0541-reverse-string-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0696-count-binary-substrings](https://github.com/Vaishnavi584/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0861-flipping-an-image](https://github.com/Vaishnavi584/Leetcode/tree/master/0861-flipping-an-image) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vaishnavi584/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Vaishnavi584/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Vaishnavi584/Leetcode/tree/master/1894-merge-strings-alternately) |
