@@ -38,6 +38,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/Vaishnavi584/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vaishnavi584/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vaishnavi584/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vaishnavi584/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Vaishnavi584/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vaishnavi584/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Vaishnavi584/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -432,6 +433,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/Vaishnavi584/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0861-flipping-an-image](https://github.com/Vaishnavi584/Leetcode/tree/master/0861-flipping-an-image) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Vaishnavi584/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vaishnavi584/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vaishnavi584/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vaishnavi584/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Vaishnavi584/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
