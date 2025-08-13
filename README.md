@@ -27,6 +27,7 @@
 | [0233-number-of-digit-one](https://github.com/Vaishnavi584/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/Vaishnavi584/Leetcode/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/Vaishnavi584/Leetcode/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/Vaishnavi584/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Vaishnavi584/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Vaishnavi584/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0372-super-pow](https://github.com/Vaishnavi584/Leetcode/tree/master/0372-super-pow) |
@@ -59,6 +60,7 @@
 | [0206-reverse-linked-list](https://github.com/Vaishnavi584/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Vaishnavi584/Leetcode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Vaishnavi584/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0326-power-of-three](https://github.com/Vaishnavi584/Leetcode/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/Vaishnavi584/Leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Vaishnavi584/Leetcode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Vaishnavi584/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
