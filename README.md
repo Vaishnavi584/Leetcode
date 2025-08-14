@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vaishnavi584/Leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Vaishnavi584/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0148-sort-list](https://github.com/Vaishnavi584/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Vaishnavi584/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vaishnavi584/Leetcode/tree/master/0328-odd-even-linked-list) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vaishnavi584/Leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Vaishnavi584/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Vaishnavi584/Leetcode/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Vaishnavi584/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Vaishnavi584/Leetcode/tree/master/0224-basic-calculator) |
