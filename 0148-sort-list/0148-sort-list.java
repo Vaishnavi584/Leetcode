@@ -1,38 +1,50 @@
 class Solution {
     public ListNode sortList(ListNode head) {
-        if (head == null || head.next == null) return head;
-        
+        if (head == null || head.next == null) {
+            return head;
+        }
+
+        // get middle node
         ListNode mid = getMid(head);
-        ListNode left = sortList(head);
-        ListNode right = sortList(mid);
-        
-        return merge(left, right);
+        ListNode right = mid.next;
+        mid.next = null; // break list into two halves
+
+        // recursive sort
+        ListNode leftSorted = sortList(head);
+        ListNode rightSorted = sortList(right);
+
+        // merge
+        return merge(leftSorted, rightSorted);
     }
 
     private ListNode getMid(ListNode head) {
-        ListNode slow = head, fast = head, prev = null;
+        ListNode slow = head, fast = head.next; // \U0001f448 important: start fast at head.next
         while (fast != null && fast.next != null) {
-            prev = slow;
             slow = slow.next;
             fast = fast.next.next;
         }
-        if (prev != null) prev.next = null;
-        return slow;
+        return slow; // mid (not last node)
     }
 
     private ListNode merge(ListNode l1, ListNode l2) {
-        ListNode dummy = new ListNode(), tail = dummy;
+        ListNode dummy = new ListNode(0);
+        ListNode curr = dummy;
+
         while (l1 != null && l2 != null) {
             if (l1.val < l2.val) {
-                tail.next = l1;
+                curr.next = l1;
                 l1 = l1.next;
             } else {
-                tail.next = l2;
+                curr.next = l2;
                 l2 = l2.next;
             }
-            tail = tail.next;
+            curr = curr.next;
         }
-        tail.next = (l1 != null) ? l1 : l2;
+
+        // Attach the remaining part
+        if (l1 != null) curr.next = l1;
+        if (l2 != null) curr.next = l2;
+
         return dummy.next;
     }
 }
