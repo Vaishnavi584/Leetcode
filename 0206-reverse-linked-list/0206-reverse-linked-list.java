@@ -10,17 +10,21 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        ListNode prev = null;
-        ListNode current = head;
-        
-        while (current != null) {
-            ListNode nextNode = current.next; // Save the next node
-            current.next = prev; // Reverse the link
-            prev = current; // Move pointers one position ahead
-            current = nextNode;
+        if(head == null || head.next == null){
+            return head;
         }
-        
-        // 'prev' now points to the new head of the reversed list
-        return prev;
+        ListNode prev = null;
+        ListNode pres = head;
+        ListNode next= head.next;
+        while(pres!=null){
+            pres.next=prev;
+            prev=pres;
+            pres=next;
+            if(next!=null){
+                next=next.next;
+            }
+        }
+        head=prev;
+        return head;
     }
 }
