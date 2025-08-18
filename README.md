@@ -34,6 +34,7 @@
 | [0202-happy-number](https://github.com/Vaishnavi584/Leetcode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Vaishnavi584/Leetcode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Vaishnavi584/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0268-missing-number](https://github.com/Vaishnavi584/Leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Vaishnavi584/Leetcode/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/Vaishnavi584/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Vaishnavi584/Leetcode/tree/master/0326-power-of-three) |
@@ -106,6 +107,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Vaishnavi584/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Vaishnavi584/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Vaishnavi584/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vaishnavi584/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Vaishnavi584/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Vaishnavi584/Leetcode/tree/master/0322-coin-change) |
@@ -223,6 +225,7 @@
 | [0075-sort-colors](https://github.com/Vaishnavi584/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Vaishnavi584/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Vaishnavi584/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Vaishnavi584/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Vaishnavi584/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/Vaishnavi584/Leetcode/tree/master/0414-third-maximum-number) |
@@ -311,6 +314,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Vaishnavi584/Leetcode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vaishnavi584/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0268-missing-number](https://github.com/Vaishnavi584/Leetcode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Vaishnavi584/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Vaishnavi584/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -446,6 +450,7 @@
 | [0136-single-number](https://github.com/Vaishnavi584/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Vaishnavi584/Leetcode/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/Vaishnavi584/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Vaishnavi584/Leetcode/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/Vaishnavi584/Leetcode/tree/master/0397-integer-replacement) |
 | [0461-hamming-distance](https://github.com/Vaishnavi584/Leetcode/tree/master/0461-hamming-distance) |
@@ -637,6 +642,7 @@
 | [0069-sqrtx](https://github.com/Vaishnavi584/Leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vaishnavi584/Leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Vaishnavi584/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Vaishnavi584/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0327-count-of-range-sum](https://github.com/Vaishnavi584/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0367-valid-perfect-square](https://github.com/Vaishnavi584/Leetcode/tree/master/0367-valid-perfect-square) |
