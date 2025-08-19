@@ -1,36 +1,34 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int ans []={-1,-1};
-        int first = search(nums , target , true);
-        int last = search(nums, target , false);
-        ans[0]=first;
-        ans [1]=last;
 
+        int first = binarysearch(nums,target,true);
+        int second = binarysearch(nums,target,false);
+        int []ans={first,second};
         return ans;
-         
         
     }
-    public int search (int []nums , int target , boolean isfirstoccurance){
+    static int binarysearch(int[]arr,int target,boolean first){
         int s=0;
+        int e=arr.length-1;
         int ans=-1;
-        int e = nums.length-1;
         while(s<=e){
             int mid= s+(e-s)/2;
-            if(nums[mid]>target){
+            if(arr[mid]>target){
                 e=mid-1;
-            }else if(nums[mid]<target){
+            }
+            if(arr[mid]<target){
                 s=mid+1;
-            }else{
+            }
+            if(arr[mid]==target){
                 ans=mid;
-                if(isfirstoccurance){
+                if(first){
                     e=mid-1;
-                }else{
+                }
+                else{
                     s=mid+1;
                 }
-
             }
         }
         return ans;
-
     }
 }
