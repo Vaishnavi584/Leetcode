@@ -81,6 +81,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vaishnavi584/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vaishnavi584/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Vaishnavi584/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -306,6 +307,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vaishnavi584/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Vaishnavi584/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vaishnavi584/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vaishnavi584/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
