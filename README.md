@@ -126,6 +126,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vaishnavi584/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Vaishnavi584/Leetcode/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/Vaishnavi584/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Vaishnavi584/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/0518-coin-change-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0525-contiguous-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0525-contiguous-array) |
