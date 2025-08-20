@@ -562,6 +562,7 @@
 | [0696-count-binary-substrings](https://github.com/Vaishnavi584/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0952-word-subsets](https://github.com/Vaishnavi584/Leetcode/tree/master/0952-word-subsets) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Vaishnavi584/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1078-remove-outermost-parentheses](https://github.com/Vaishnavi584/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Vaishnavi584/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/Vaishnavi584/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/Vaishnavi584/Leetcode/tree/master/1397-search-suggestions-system) |
@@ -693,6 +694,7 @@
 | [0735-asteroid-collision](https://github.com/Vaishnavi584/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Vaishnavi584/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Vaishnavi584/Leetcode/tree/master/0937-online-stock-span) |
+| [1078-remove-outermost-parentheses](https://github.com/Vaishnavi584/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vaishnavi584/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Vaishnavi584/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Vaishnavi584/Leetcode/tree/master/2470-removing-stars-from-a-string) |
