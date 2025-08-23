@@ -693,6 +693,7 @@
 | [0085-maximal-rectangle](https://github.com/Vaishnavi584/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/Vaishnavi584/Leetcode/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Vaishnavi584/Leetcode/tree/master/0224-basic-calculator) |
+| [0232-implement-queue-using-stacks](https://github.com/Vaishnavi584/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Vaishnavi584/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Vaishnavi584/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Vaishnavi584/Leetcode/tree/master/0735-asteroid-collision) |
@@ -851,6 +852,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Vaishnavi584/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0649-dota2-senate](https://github.com/Vaishnavi584/Leetcode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/Vaishnavi584/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Binary Indexed Tree
@@ -868,6 +870,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Vaishnavi584/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0232-implement-queue-using-stacks](https://github.com/Vaishnavi584/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/Vaishnavi584/Leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/Vaishnavi584/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Vaishnavi584/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
