@@ -1,17 +1,31 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        int rows = matrix.length, cols = matrix[0].length;
-        boolean firstColZero = false;
-
-        for (int r = 0; r < rows; r++) {
-            if (matrix[r][0] == 0) firstColZero = true;
-            for (int c = 1; c < cols; c++)
-                if (matrix[r][c] == 0) matrix[r][0] = matrix[0][c] = 0;
+        boolean[] rowZero = new boolean[matrix.length];
+        boolean[] colZero = new boolean[matrix[0].length];
+        for(int k=0;k<matrix.length;k++){
+            for(int l =0;l<matrix[k].length;l++){
+                if(matrix[k][l]==0){
+                  rowZero[k]=true;
+                  colZero[l]=true;  
+                }
+            }
         }
-        for (int r = rows - 1; r >= 0; r--) {
-            for (int c = cols - 1; c > 0; c--)
-                if (matrix[r][0] == 0 || matrix[0][c] == 0) matrix[r][c] = 0;
-            if (firstColZero) matrix[r][0] = 0;
+       for(int r = 0; r < matrix.length; r++){
+            if(rowZero[r]){
+                for(int j = 0; j < matrix[0].length; j++){
+                    matrix[r][j] = 0;
+                }
+            }
         }
+       for(int c = 0; c < matrix[0].length; c++){
+            if(colZero[c]){
+                for(int q = 0; q < matrix.length; q++){
+                    matrix[q][c] = 0;
+                }
+            }
+        } 
     }
-}
+       
+
+}  
+    
