@@ -94,6 +94,7 @@
 | [0041-first-missing-positive](https://github.com/Vaishnavi584/Leetcode/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/Vaishnavi584/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Vaishnavi584/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Vaishnavi584/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Vaishnavi584/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Vaishnavi584/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Vaishnavi584/Leetcode/tree/master/0075-sort-colors) |
@@ -691,6 +692,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Vaishnavi584/Leetcode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Vaishnavi584/Leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Vaishnavi584/Leetcode/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/Vaishnavi584/Leetcode/tree/master/0861-flipping-an-image) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vaishnavi584/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -722,6 +724,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Vaishnavi584/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Vaishnavi584/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Vaishnavi584/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0861-flipping-an-image](https://github.com/Vaishnavi584/Leetcode/tree/master/0861-flipping-an-image) |
