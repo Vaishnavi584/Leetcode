@@ -242,6 +242,7 @@
 | [0148-sort-list](https://github.com/Vaishnavi584/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Vaishnavi584/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaishnavi584/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Vaishnavi584/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vaishnavi584/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Vaishnavi584/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Vaishnavi584/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -336,6 +337,7 @@
 | [0202-happy-number](https://github.com/Vaishnavi584/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Vaishnavi584/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vaishnavi584/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/Vaishnavi584/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vaishnavi584/Leetcode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Vaishnavi584/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Vaishnavi584/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -564,6 +566,7 @@
 | [0205-isomorphic-strings](https://github.com/Vaishnavi584/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vaishnavi584/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/Vaishnavi584/Leetcode/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/Vaishnavi584/Leetcode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/Vaishnavi584/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vaishnavi584/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Vaishnavi584/Leetcode/tree/master/0392-is-subsequence) |
