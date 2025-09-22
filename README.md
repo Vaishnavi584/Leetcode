@@ -334,6 +334,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Vaishnavi584/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Vaishnavi584/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Vaishnavi584/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vaishnavi584/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/Vaishnavi584/Leetcode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Vaishnavi584/Leetcode/tree/master/0299-bulls-and-cows) |
@@ -560,6 +561,7 @@
 | [0072-edit-distance](https://github.com/Vaishnavi584/Leetcode/tree/master/0072-edit-distance) |
 | [0140-word-break-ii](https://github.com/Vaishnavi584/Leetcode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Vaishnavi584/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Vaishnavi584/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vaishnavi584/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/Vaishnavi584/Leetcode/tree/master/0224-basic-calculator) |
 | [0299-bulls-and-cows](https://github.com/Vaishnavi584/Leetcode/tree/master/0299-bulls-and-cows) |
